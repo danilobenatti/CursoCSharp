@@ -2,7 +2,7 @@
 using System.Globalization;
 
 namespace CursoCSharp {
-    internal class OperadoresAritmeticos {
+    class OperadoresAritmeticos {
         public static void Executar() {
             var preco = 1000;
             var imposto = 355;
