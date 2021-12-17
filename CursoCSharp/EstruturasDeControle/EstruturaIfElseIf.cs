@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CursoCSharp {
+namespace CursoCSharp.EstruturasDeControle {
     class EstruturaIfElseIf {
         public static void Executar() {
             Console.Write("Digite a nota do aluno: ");

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CursoCSharp {
+namespace CursoCSharp.Fundamentos {
     class OperadorTernario {
         public static void Executar() {
             var nota = 7.0;

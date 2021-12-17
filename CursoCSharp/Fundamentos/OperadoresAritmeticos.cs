@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Globalization;
 
-namespace CursoCSharp {
+namespace CursoCSharp.Fundamentos {
     class OperadoresAritmeticos {
         public static void Executar() {
             var preco = 1000;

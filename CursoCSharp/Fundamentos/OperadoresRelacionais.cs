@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CursoCSharp {
+namespace CursoCSharp.Fundamentos {
     class OperadoresRelacionais {
         public static void Executar() {
             // double nota = 6.0;

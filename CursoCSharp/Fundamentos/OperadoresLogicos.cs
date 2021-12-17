@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CursoCSharp {
+namespace CursoCSharp.Fundamentos {
     class OperadoresLogicos {
         public static void Executar() {
             var executouTrabalho1 = true;

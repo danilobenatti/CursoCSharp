@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CursoCSharp {
+namespace CursoCSharp.EstruturasDeControle {
     class EstruturaSwitch {
         public static void Executar() {
             Console.Write("Avalie meu atendimento com uma nota de 0 a 5: ");

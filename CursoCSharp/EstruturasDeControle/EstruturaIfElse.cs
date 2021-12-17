@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CursoCSharp {
+namespace CursoCSharp.EstruturasDeControle {
     class EstruturaIfElse {
         public static void Executar() {
             double nota = 7.0;

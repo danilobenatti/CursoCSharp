@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CursoCSharp {
+namespace CursoCSharp.Fundamentos {
     class OperadoresUnarios {
         public static void Executar() {
             var valorNegativo = -5;

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CursoCSharp {
+namespace CursoCSharp.Fundamentos {
     class OperadoresAtribuicao {
         public static void Executar() {
             var num1 = 3;
