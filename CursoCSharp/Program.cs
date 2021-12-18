@@ -39,7 +39,8 @@ namespace CursoCSharp {
                 {"Usando Continue - Estruturas de Controle", UsandoContinue.Executar},
 
                 // Classes e Métodos
-                {"Membros - Atributos e Métodos", Membros.Executar}
+                {"Membros - Atributos e Métodos", Membros.Executar},
+                {"Construtores - Atributos e Métodos", Construtores.Executar}
             });
 
             central.SelecionarEExecutar();
