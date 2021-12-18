@@ -9,7 +9,7 @@ namespace CursoCSharp.ClassesEMetodos {
         //Método de instância.
         public int Somar(int a, int b) => a + b;
     }
-    class MetodosEstáticos {
+    class MetodosEstaticos {
         public static void Executar() {
             var resultado = CalculadoraEstatica.Multiplicar(2, 3);
             Console.WriteLine($"Resultato da multiplicação: {resultado}");
