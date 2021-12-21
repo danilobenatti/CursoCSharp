@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CursoCSharp {
+namespace CursoCSharp.ClassesEMetodos {
     public class Cliente {
         public string Nome;
         public readonly DateTime Nascimento;
