@@ -1,7 +1,7 @@
 ﻿using System;
 
 namespace CursoCSharp.Colecoes {
-    class _Array {
+    class ColecoesArray {
         public static void Executar() {
             var alunos = new string[5];
             alunos[0] = "ALuno 1";

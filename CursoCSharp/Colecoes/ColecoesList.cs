@@ -13,7 +13,7 @@ namespace CursoCSharp.Colecoes {
             this.preco = preco;
         }
     }
-    class _List {
+    class ColecoesList {
         public static void Executar() {
             var livro = new Produto() { nome = "G.O.T.", preco = 59.9 };
             var carrinho = new List<Produto>();
