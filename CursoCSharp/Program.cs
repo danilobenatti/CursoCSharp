@@ -54,7 +54,8 @@ namespace CursoCSharp {
                 {"Struct - Atributos e Métodos", ExemploStruct.Executar},
                 {"Struct vs Classe - Atributos e Métodos", StructVsClasse.Executar},
                 {"Valor vs Referência - Atributos e Métodos", ValorVsReferencia.Executar},
-                {"Parâmetros por Referência (Ref/Out) - Atributos e Métodos", ParametrosPorReferencia.Executar}
+                {"Parâmetros por Referência (Ref/Out) - Atributos e Métodos", ParametrosPorReferencia.Executar},
+                {"Parâmetro com Valor Padrão - Atributos e Métodos", ParametroPadrao.Executar}
             });
 
             central.SelecionarEExecutar();
