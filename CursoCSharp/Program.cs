@@ -70,7 +70,8 @@ namespace CursoCSharp {
                 {"Dictionary - Coleções", ColecoesDictionary.Executar},
 
                 // POO - Programação Orientada a Objetos
-                {"Herança - Orientação a Objetos", Heranca.Executar}
+                {"Herança - Orientação a Objetos", Heranca.Executar},
+                {"Construtor \"this\" - Orientação a Objetos", ConstrutorThis.Executar}
             });
 
             central.SelecionarEExecutar();
