@@ -72,7 +72,8 @@ namespace CursoCSharp {
                 // POO - Programação Orientada a Objetos
                 {"Herança - Orientação a Objetos", Heranca.Executar},
                 {"Construtor \"this\" - Orientação a Objetos", ConstrutorThis.Executar},
-                {"Encapsulamneto - Orientação a Objetos", POO.Encapsulamento.Executar}
+                {"Encapsulamneto - Orientação a Objetos", POO.Encapsulamento.Executar},
+                {"Polimorfismo - Orientação a Objetos", Polimorfismo.Executar}
             });
 
             central.SelecionarEExecutar();
