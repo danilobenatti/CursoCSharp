@@ -99,7 +99,8 @@ namespace CursoCSharp {
                 {"Usando FileInfo - Explorando API", ExemploFileInfo.Executar},
                 {"Trabalhando com Diretórios - Explorando API", Diretorios.Executar},
                 {"Usando DirectoryInfo - Explorando API", ExemploDirectoryInfo.Executar},
-                {"Usando Path - Explorando API", ExemploPath.Executar}
+                {"Usando Path - Explorando API", ExemploPath.Executar},
+                {"Usando DateTime - Explorando API", ExemploDateTime.Executar}
             });
 
             central.SelecionarEExecutar();
