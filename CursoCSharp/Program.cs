@@ -94,7 +94,8 @@ namespace CursoCSharp {
                 {"Exceções Personalizadas - Exceções", ExcecoesPersonalizadas.Executar},
 
                 //Explorando API
-                {"Arquivo: Escrevendo Dados - Explorando API", PrimeiroArquivo.Executar}
+                {"Arquivo: Escrevendo Dados - Explorando API", PrimeiroArquivo.Executar},
+                {"Arquivo: Lendo Dados - Explorando API", LendoArquivos.Executar}
             });
 
             central.SelecionarEExecutar();
