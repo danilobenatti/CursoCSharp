@@ -105,7 +105,8 @@ namespace CursoCSharp {
                 {"Usando TimeSpan - Explorando API", ExemploTimeSpan.Executar},
 
                 //Tópicos Avançados
-                {"LINQ #1 (Language Integrated Query) - Tópicos Avançados", ExemploLinq1.Executar}
+                {"LINQ #1 (Language Integrated Query) - Tópicos Avançados", ExemploLinq1.Executar},
+                {"LINQ #2 (Language Integrated Query) - Tópicos Avançados", ExemploLinq2.Executar}
             });
 
             central.SelecionarEExecutar();
