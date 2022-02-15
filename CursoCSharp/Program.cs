@@ -106,7 +106,8 @@ namespace CursoCSharp {
 
                 //Tópicos Avançados
                 {"LINQ #1 (Language Integrated Query) - Tópicos Avançados", ExemploLinq1.Executar},
-                {"LINQ #2 (Language Integrated Query) - Tópicos Avançados", ExemploLinq2.Executar}
+                {"LINQ #2 (Language Integrated Query) - Tópicos Avançados", ExemploLinq2.Executar},
+                {"Nullables - Tópicos Avançados", Nullables.Executar}
             });
 
             central.SelecionarEExecutar();
